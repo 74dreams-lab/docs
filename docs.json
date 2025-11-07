@@ -8,6 +8,10 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
+  "topbarCtaButton": {
+    "name": "Get Started",
+    "url": "https://yourwebsite.com/get-started"
+  },
   "navigation": {
     "tabs": [
       {
